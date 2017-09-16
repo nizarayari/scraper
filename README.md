@@ -1,0 +1,2 @@
+# scraper
+Bank scraper script
