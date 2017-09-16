@@ -1,0 +1,28 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Bank scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nizarayari/scraper.git"
+  },
+  "keywords": [
+    "scraper",
+    "bank",
+    "finance"
+  ],
+  "author": "Nizar Ayari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nizarayari/scraper/issues"
+  },
+  "homepage": "https://github.com/nizarayari/scraper#readme",
+  "devDependencies": {
+    "casperjs": "^1.1.4",
+    "phantomjs": "^2.1.7"
+  }
+}
