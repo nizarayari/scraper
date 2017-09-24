@@ -4,6 +4,7 @@
   "description": "Bank scraper",
   "main": "scraper.js",
   "scripts": {
+    "scraper": "casperjs scraper.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
